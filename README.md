@@ -1,4 +1,4 @@
- ##🎵 Spotify Playlist Manager
+ ## 🎵 Spotify Playlist Manager
  A simple command-line spotify 
  Playlist Manager built using Python.
 
