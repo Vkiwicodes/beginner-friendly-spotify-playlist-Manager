@@ -1,16 +1,16 @@
- #🎵 Spotify Playlist Manager
+ ##🎵 Spotify Playlist Manager
  A simple command-line spotify 
  Playlist Manager built using Python.
 
  This project allows users to create and manage a playlist by adding, viewing, searching, and removing songs.
 
  ## Features
- -Add songs
- -View playlist
- -Remove Playlist
- -Search songs
- -Display the total number of songs
- -Exit the program
+ - Add songs
+ - View playlist
+ - Remove Playlist
+ - Search songs
+ - Display the total number of songs
+ - Exit the program
 
  ## How to Run
  when the program asks, enter your choice:
